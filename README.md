@@ -1,5 +1,6 @@
 # walls
-Some wallpapers i made
+Some wallpapers i made.
+If you want a custom wallpaper, open an issue and i will try to make it
 
 ## All:
 ### Planets:
